@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Spotify history React Visualizer
+
+
+
+![image](https://user-images.githubusercontent.com/7833164/219497196-1cda97b9-69bf-4289-9887-e624589ab2a7.png)
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
